@@ -12,7 +12,8 @@ cscript slmgr.vbs /skms kms.lotro.cc
 
 cscript slmgr.vbs /ato
 
-==================================================================
+-------------------------------------
+
 Home/Core                            TX9XD-98N7V-6WMQ6-BX7FG-H8Q99     
 Home/Core (Country Specific)         PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
 Home/Core (Single Language)          7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH            
@@ -27,4 +28,5 @@ Enterprise 2015 LTSB                 WNMTR-4C88C-JK8YV-HQ7T2-76DF9
 Enterprise 2015 LTSB N               2F77B-TNFGY-69QQF-B8YKP-D69TJ
 Enterprise 2016 LTSB                 DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ 
 Enterprise 2016 LTSB N               QFFDN-GRT3P-VKWWX-X7T3R-8B639
-==================================================================
+
+---------------------------------
